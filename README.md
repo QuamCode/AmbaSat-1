@@ -1,4 +1,5 @@
-# AmbaSat-1
+# Quams Modified DIY Sat
+Open Source means I don't have to do all the work :)
 
 <img src="https://ambasat.com/wp-content/uploads/2019/04/ambasat-1-pcb-with-components-cropped-1024x693.jpg">
 
